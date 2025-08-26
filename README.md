@@ -56,7 +56,6 @@ Published at top venues like **IEEE SCAM, MSR, ICCIT** covering topics from auto
 ## 📫 Contact Me
 
 📧 Email: subornodebbappon20@gmail.com  
-📞 Phone: +1 639-916-1871  
 🌐 Website: [https://suborno-deb-bappon.github.io](https://suborno-deb-bappon.github.io)
 
 ---
