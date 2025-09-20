@@ -11,19 +11,19 @@
 
 🎓 Graduate Research & Teaching Assistant at **University of Saskatchewan**, pursuing MSc in Computer Science.  
 💻 Passionate about **Problem-solving, NLP, AI4SE, Trustworthy AI**, and **Human-AI Interaction**.  
-📈 Data-driven insights enthusiast — leveraging **Power BI, Python, and Machine Learning** for real-world applications.  
+📈 Data-driven insights enthusiast — leveraging **Python, Power BI, Machine Learning, and Agentic AI** for real-world applications.  
 👨‍🏫 Educator & Mentor with experience in academia and industry collaboration.  
 
 ---
 
 ## 🛠️ Technical Stack
 
-- **Languages**: Python, SQL, C, C++, JavaScript, HTML, CSS  
-- **Data Analytics**: Power BI, Tableau, Pandas, NumPy, Matplotlib  
-- **ML/NLP**: PyTorch, TensorFlow, scikit-learn, LangChain, OpenAI Agents SDK, Crew AI  
-- **Web Development**: Flask, Django  
+- **Languages**: Python, SQL (PostgreSQL/MySQL/SQLite), C, C++, JavaScript, HTML, CSS
+- **ML/AI**: scikit-learn, PyTorch, TensorFlow, LangChain, OpenAI Agents SDK, Crew AI  
+- **Data Analytics**: Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn  
+- **Web Development**: Flask, Django, Gradio  
 - **Cloud & Tools**: Azure, Git, GitHub, VS Code, Jupyter Lab  
-- **Practices**: Agile (Scrum), TDD, Performance Optimization  
+- **Practices**: Agile (Scrum), TDD, CI/CD  
 
 ---
 
@@ -40,9 +40,11 @@
 
 ## 🏆 Achievements
 
+- **Nomination for Geedes Graduate Scolarship in Computer Sciecne** - University of Saskatchewan, Canada
 - **Best Research Award** — CMPT 854, University of Saskatchewan  
-- **75th Anniversary Recruitment Scholarship** — CGPS, University of Saskatchewan  
-- **Dean’s Award** — CUET, Bangladesh  
+- **75th Anniversary Recruitment Scholarship** — College of Graduate and Postdoctoral Studies, University of Saskatchewan
+- **Best Presentation Award (Session-231)** - 25th IEEE International Conferecne on Computer and Information Technology (ICCIT)
+- **Dean’s Award** — Chittagong University of Engineering and Technology (CUET)  
 
 ---
 
@@ -60,4 +62,4 @@ Published at top venues like **IEEE SCAM, MSR, ICCIT** covering topics from auto
 
 ---
 
-_“Empowering software engineering with AI-driven solutions.”_
+_“Trustworthy AI for seamless human–AI collaboration in software engineering.”_
