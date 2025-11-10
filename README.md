@@ -62,4 +62,4 @@ Published at top venues like **IEEE SCAM, MSR, ICCIT** covering topics from auto
 
 ---
 
-_“Trustworthy AI for seamless human–AI collaboration in software engineering.”_
+_“Trustworthy AI for seamless human–AI collaboration in Computer Science.”_
