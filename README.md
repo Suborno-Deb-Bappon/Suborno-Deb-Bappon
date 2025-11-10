@@ -11,7 +11,7 @@
 
 🎓 Graduate Research & Teaching Assistant at **University of Saskatchewan**, pursuing MSc in Computer Science.  
 💻 Passionate about **Problem-solving, NLP, AI4SE, Trustworthy AI**, and **Human-AI Interaction**.  
-📈 Data-driven insights enthusiast — leveraging **Python, Power BI, Machine Learning, and Agentic AI** for real-world applications.  
+📈 Data-driven insights enthusiast — leveraging **Python, SQL, Machine Learning, and Agentic AI** for real-world applications.  
 👨‍🏫 Educator & Mentor with experience in academia and industry collaboration.  
 
 ---
