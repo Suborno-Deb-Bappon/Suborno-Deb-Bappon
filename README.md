@@ -30,7 +30,8 @@
 ## 📂 Featured Projects
 
 - **[Data Jobs Dashboard](https://github.com/Suborno-Deb-Bappon/Data-Jobs-Dashboard)** — Analyzing 479K+ job postings using Power BI.  
-- **[Neora: Multi-Agent Rapid Prototyping](https://github.com/Suborno-Deb-Bappon/neora)** — Crew AI-based agentic system for automated software prototyping.  
+- **[Neora: Multi-Agent Rapid Prototyping](https://github.com/Suborno-Deb-Bappon/neora)** — Crew AI-based agentic system for automated software prototyping.
+- **[Repolish: Automated ReadME file generator](https://github.com/Suborno-Deb-Bappon/repolish)** — Crew AI-based agentic system for automated readme.md file generation.
 - **[SQL-based Job Market Analytics](https://github.com/Suborno-Deb-Bappon/Data-Job-Market-Insights)** — SQL-powered insights on job market trends.  
 - **[Patient Waitlist Analytics Dashboard](https://github.com/Suborno-Deb-Bappon/Patient-Waitlist-Analytics-Dashboard)** - Power BI dashboard analyzing NHS patient waitlist trends across 24M+ records
 - **[Coffee Shop Sales Dashboard](https://github.com/Suborno-Deb-Bappon/Coffee-Shop-Sales-Dashboard)** — Excel-based business analytics dashboard.  
