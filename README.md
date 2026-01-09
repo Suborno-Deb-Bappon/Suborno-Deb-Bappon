@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-🎓 Graduate Research & Teaching Assistant at **University of Saskatchewan**, pursuing MSc in Computer Science.  
-💻 Passionate about **Problem-solving, NLP, AI4SE, Trustworthy AI**, and **Human-AI Interaction**.  
+🎓 Completed M.Sc. in Computer Science at **University of Saskatchewan**.
+💻 Passionate about **Problem-solving, AI4SE, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
 📈 Data-driven insights enthusiast — leveraging **Python, SQL, Machine Learning, and Agentic AI** for real-world applications.  
 👨‍🏫 Educator & Mentor with experience in academia and industry collaboration.  
 
@@ -19,8 +19,8 @@
 ## 🛠️ Technical Stack
 
 - **Languages**: Python, SQL (PostgreSQL/MySQL/SQLite), C, C++, JavaScript, HTML, CSS
-- **ML/AI**: scikit-learn, PyTorch, TensorFlow, LangChain, OpenAI Agents SDK, Crew AI  
-- **Data Analytics**: Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn  
+- **ML/AI**: scikit-learn, PyTorch, TensorFlow, LangChain, OpenAI Agents SDK, Crew AI, MCP  
+- **Data Analytics**: Power BI, Pandas, NumPy, Matplotlib, Seaborn  
 - **Web Development**: Flask, Django, Gradio  
 - **Cloud & Tools**: Azure, Git, GitHub, VS Code, Jupyter Lab  
 - **Practices**: Agile (Scrum), TDD, CI/CD  
@@ -57,7 +57,7 @@ Published at top venues like **IEEE SCAM, MSR, ICCIT** covering topics from auto
 
 ## 📫 Contact Me
 
-📧 Email: subornodebbappon20@gmail.com  
+📧 Email: subornodebbappon20@gmail.com, suborno.deb@usask.ca
 🌐 Website: [https://suborno-deb-bappon.github.io](https://suborno-deb-bappon.github.io)
 
 ---
