@@ -9,6 +9,7 @@
 
 ## 🚀 About Me
 
+💼 Working as a Software Developer at **Siemens**.
 🎓 Completed M.Sc. in Computer Science at **University of Saskatchewan**.
 💻 Passionate about **Problem-solving, AI4SE, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
 📈 Data-driven insights enthusiast — leveraging **Python, SQL, Machine Learning, and Agentic AI** for real-world applications.  
@@ -39,7 +40,7 @@
 ---
 
 ## 🏆 Achievements
-
+- **Nomination for Computer Science M.Sc. Citizenship Award** - University of Saskatchewan, Canada
 - **Nomination for Geedes Graduate Scolarship in Computer Sciecne** - University of Saskatchewan, Canada
 - **Best Research Award** — CMPT 854, University of Saskatchewan  
 - **75th Anniversary Recruitment Scholarship** — College of Graduate and Postdoctoral Studies, University of Saskatchewan
