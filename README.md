@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-💼 Working as a Software Developer at **Siemens**.
-🎓 Completed M.Sc. in Computer Science at **University of Saskatchewan**.
+💼 Working as a Software Developer at **Siemens**.  
+🎓 Completed M.Sc. in Computer Science at **University of Saskatchewan**.  
 💻 Passionate about **Problem-solving, AI4SE, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
 📈 Data-driven insights enthusiast — leveraging **Python, SQL, Machine Learning, and Agentic AI** for real-world applications.  
 👨‍🏫 Educator & Mentor with experience in academia and industry collaboration.  
