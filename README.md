@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-💼 Working as a Software Developer at **Siemens**.  
+💼 Working as a Software Developer - AI at **Siemens**.  
 🎓 Completed M.Sc. in Computer Science at **University of Saskatchewan**.  
 💻 Passionate about **Problem-solving, AI4SE, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
 📈 Data-driven insights enthusiast — leveraging **Python, SQL, Machine Learning, and Agentic AI** for real-world applications.  
@@ -20,10 +20,10 @@
 ## 🛠️ Technical Stack
 
 - **Languages**: Python, SQL (PostgreSQL/MySQL/SQLite), C, C++, JavaScript, HTML, CSS
-- **ML/AI**: scikit-learn, PyTorch, TensorFlow, LangChain, OpenAI Agents SDK, Crew AI, MCP  
-- **Data Analytics**: Power BI, Pandas, NumPy, Matplotlib, Seaborn  
-- **Web Development**: Flask, Django, Gradio  
-- **Cloud & Tools**: Azure, Git, GitHub, VS Code, Jupyter Lab  
+- **ML/AI**: scikit-learn, PyTorch, TensorFlow, LangChain, OpenAI Agents SDK, Crew AI, MCP
+- **Web Development**: FastAPI, Flask, Django, Gradio    
+- **Data Analytics**: NumPy, Pandas, Matplotlib, Seaborn, PowerBI  
+- **Cloud & Tools**: Azure, Git, GitHub, GitLab, VS Code, Cursor, Jupyter Lab  
 - **Practices**: Agile (Scrum), TDD, CI/CD  
 
 ---
@@ -58,7 +58,7 @@ Published at top venues like **IEEE SCAM, MSR, ICCIT** covering topics from auto
 
 ## 📫 Contact Me
 
-📧 Email: subornodebbappon20@gmail.com, suborno.deb@usask.ca
+📧 Email: subornodebbappon20@gmail.com
 🌐 Website: [https://suborno-deb-bappon.github.io](https://suborno-deb-bappon.github.io)
 
 ---
