@@ -10,20 +10,21 @@
 ## 🚀 About Me
 
 💼 Working as a Software Developer - AI at **Siemens**.  
-🎓 Completed M.Sc. in Computer Science at **University of Saskatchewan**.  
-💻 Passionate about **Problem-solving, AI4SE, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
-📈 Data-driven insights enthusiast — leveraging **Python, SQL, Machine Learning, and Agentic AI** for real-world applications.  
-👨‍🏫 Educator & Mentor with experience in academia and industry collaboration.  
+🤖 Building AI-driven intelligent systems for Electronic Design Automation.
+🎓 Completed M.Sc. in Computer Science (specialization in **AI for Software Engineering**) at **University of Saskatchewan**.  
+💻 Passionate about **Problem-solving, AI4SE, Mining Software Repositories, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
+👨‍🏫 Educator & Mentor with experience in both academia and industry.  
 
 ---
 
 ## 🛠️ Technical Stack
 
 - **Languages**: Python, SQL (PostgreSQL/MySQL/SQLite), C, C++, JavaScript, HTML, CSS
-- **ML/AI**: scikit-learn, PyTorch, TensorFlow, LangChain, OpenAI Agents SDK, Crew AI, MCP
-- **Web Development**: FastAPI, Flask, Django, Gradio    
+- **AI**: FastMCP, OpenAI Agents SDK, Crew AI, LangChain
+- **ML/DL**: scikit-learn, PyTorch, TensorFlow
+- **Web Frameworks**: FastAPI, Flask, Django, Gradio    
 - **Data Analytics**: NumPy, Pandas, Matplotlib, Seaborn, PowerBI  
-- **Cloud & Tools**: Azure, Git, GitHub, GitLab, VS Code, Cursor, Jupyter Lab  
+- **Cloud & Tools**: Azure, AWS, Git, GitHub, GitLab, VS Code, Cursor, Jupyter Lab  
 - **Practices**: Agile (Scrum), TDD, CI/CD  
 
 ---
@@ -63,4 +64,4 @@ Published at top venues like **IEEE SCAM, MSR, ICCIT** covering topics from auto
 
 ---
 
-_“Trustworthy AI for seamless human–AI collaboration in Computer Science.”_
+_“Trustworthy AI for seamless human–AI collaboration.”_
