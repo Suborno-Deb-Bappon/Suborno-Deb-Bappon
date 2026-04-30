@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-💼 Working as a Software Developer - AI at **Siemens**.  
-🤖 Building AI-driven intelligent systems for Electronic Design Automation.
-🎓 Completed M.Sc. in Computer Science (specialization in **AI for Software Engineering**) at **University of Saskatchewan**.  
-💻 Passionate about **Problem-solving, AI4SE, Mining Software Repositories, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
-👨‍🏫 Educator & Mentor with experience in both academia and industry.  
+- 💼 Working as a Software Developer - AI at **Siemens**.  
+- 🤖 Building AI-driven intelligent systems for Electronic Design Automation.
+- 🎓 Completed M.Sc. in Computer Science (specialization in **AI for Software Engineering**) at **University of Saskatchewan**.  
+- 💻 Passionate about **Problem-solving, AI4SE, Mining Software Repositories, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
+- 👨‍🏫 Educator & Mentor with experience in both academia and industry.  
 
 ---
 
