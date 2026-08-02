@@ -10,16 +10,16 @@
 ## 🚀 About Me
 
 - 💼 Working as a Software Developer - AI at **Siemens**.  
-- 🤖 Building AI-driven intelligent systems for Electronic Design Automation.
+- 🤖 Designing and Developing AI-driven intelligent systems for Electronic Design Automation.
 - 🎓 Completed M.Sc. in Computer Science (specialization in **AI for Software Engineering**) at **University of Saskatchewan**.  
-- 💻 Passionate about **Problem-solving, AI4SE, Mining Software Repositories, Trustworthy AI, Empirical SE**, and **Human-AI Interaction**.  
-- 👨‍🏫 Educator & Mentor with experience in both academia and industry.  
+- 💻 Passionate about **Problem-solving, AI4SE, Agentic SE, and Mining Software Repositories**.  
+- 👨‍🏫 Developer, Educator & Mentor with experience in both academia and industry.  
 
 ---
 
 ## 🛠️ Technical Stack
 
-- **Languages**: Python, SQL (PostgreSQL/MySQL/SQLite), C, C++, JavaScript, HTML, CSS
+- **Languages**: Python, SQL, C, C++, JavaScript, HTML, CSS
 - **AI**: FastMCP, OpenAI Agents SDK, Crew AI, LangChain
 - **ML/DL**: scikit-learn, PyTorch, TensorFlow
 - **Web Frameworks**: FastAPI, Flask, Django, Gradio    
@@ -63,5 +63,3 @@ Published at top venues like **IEEE SCAM, MSR, ICCIT** covering topics from auto
 🌐 Website: [https://suborno-deb-bappon.github.io](https://suborno-deb-bappon.github.io)
 
 ---
-
-_“Trustworthy AI for seamless human–AI collaboration.”_
